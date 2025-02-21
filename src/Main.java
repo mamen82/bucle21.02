@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-/* menu utilizando bucles y shitch dice irina*/
+/* menu utilizando bucles y shitch dice irina ok*/
 public class Main {
     public static void main(String[] args) {
 
